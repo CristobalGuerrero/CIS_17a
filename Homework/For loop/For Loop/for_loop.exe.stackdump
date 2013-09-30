@@ -1,0 +1,9 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=004011C9
+eax=00000000 ebx=6121060A ecx=006D0218 edx=00000000 esi=6121060F edi=00000000
+ebp=0022CD78 esp=0022CD50 program=C:\Documents and Settings\Owner\Desktop\Homework\For loop\For Loop\dist\Debug\Cygwin-Windows\for_loop.exe, pid 2768, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CD78  004011C9  (00000001, 61210454, 006D00F8, 61004A1D)
+0022CDA8  61006DDA  (00000000, 0022CDE0, 610066E0, 7FFDA000)
+End of stack trace

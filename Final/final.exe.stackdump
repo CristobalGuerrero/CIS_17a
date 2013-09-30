@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004011CE
+eax=611A632D ebx=61228625 ecx=00000000 edx=0022CD10 esi=61228627 edi=00000000
+ebp=0022CC88 esp=0022CC70 program=C:\Documents and Settings\Owner\Desktop\Final\dist\Debug\Cygwin-Windows\final.exe, pid 4068, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC88  004011CE  (0022CD10, 00000005, 0022CD30, 00401469)
+0022CD68  004014E0  (00000001, 612283C4, 006E00F8, 610049BE)
+0022CD98  61006E73  (00000000, 0022CDD4, 61006720, 7FFDE000)
+End of stack trace

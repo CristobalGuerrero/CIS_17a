@@ -1,0 +1,6 @@
+Homework make sure to do
+
+ABCD   base 16
+76.54  base 8
+47.125 base 10
+
